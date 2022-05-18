@@ -1,0 +1,7 @@
+# Configuring Flake8 — flake8 4.0.1 documentation - https://tmpl.at/3sIgBN3
+
+[flake8]
+max-line-length = 120
+#ignore = E226,E302,E41
+#exclude = tests/*
+#max-complexity = 10
