@@ -2,4 +2,12 @@
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": ["--max-line-length=120"],
+
+    "files.associations": {
+        "*.html": "jinja-html"
+    },
+
+    "emmet.includeLanguages": {
+        "jinja-html": "html"
+    },
 }
