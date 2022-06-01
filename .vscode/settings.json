@@ -10,4 +10,9 @@
     "emmet.includeLanguages": {
         "jinja-html": "html"
     },
+
+    "[html][django-html][jinja][jinja-html]": {
+        "editor.defaultFormatter": "monosans.djlint",
+        "editor.formatOnSave": false,
+    },
 }

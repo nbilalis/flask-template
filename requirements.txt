@@ -8,4 +8,5 @@ Werkzeug==2.1.2
 
 flake8
 autopep8
+djLint
 python-dotenv
