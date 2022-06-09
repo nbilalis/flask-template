@@ -2,6 +2,7 @@
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": ["--max-line-length=120"],
+    "python.formatting.provider": "autopep8",
 
     "files.associations": {
         "*.html": "jinja-html"
