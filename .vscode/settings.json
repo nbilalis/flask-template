@@ -12,6 +12,10 @@
         "jinja-html": "html"
     },
 
+    "[python]": {
+        "editor.formatOnSave": true,
+    },
+
     "[html][django-html][jinja][jinja-html]": {
         "editor.defaultFormatter": "monosans.djlint",
         "editor.formatOnSave": false,
