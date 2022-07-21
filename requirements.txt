@@ -1,4 +1,5 @@
 Flask
+Flask-DebugToolbar
 
 flake8
 autopep8
