@@ -20,4 +20,10 @@
         "editor.defaultFormatter": "monosans.djlint",
         "editor.formatOnSave": false,
     },
+
+    "search.exclude": {
+        "**/__pycache__": true,
+        "**/.git": true,
+        "**/.venv": true,
+    },
 }
