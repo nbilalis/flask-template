@@ -16,4 +16,4 @@ def home():
 
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=environ.get('SERVER_PORT', 5000), debug=True)
+    app.run(host='localhost', port=int(environ.get('SERVER_PORT', 5000)), debug=True)
