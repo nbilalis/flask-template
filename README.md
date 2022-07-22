@@ -1,6 +1,6 @@
 # Flask template
 
-Clone, download of use degit to get the files
+Clone, download, press `Use this template`, or use `degit` to get the files
 
 ```bash
 degit nbilalis/flask-template <my-project>
